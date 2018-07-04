@@ -1,0 +1,12 @@
+{
+  "name": "async-iterator-pg-cursor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "libpq": "^1.8.8",
+    "null-logger": "^1.0.0",
+    "pg": "^7.4.3",
+    "pg-types": "^1.13.0"
+  }
+}
