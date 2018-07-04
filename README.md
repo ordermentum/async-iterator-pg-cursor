@@ -1,7 +1,6 @@
 # async-iterator-pg-cursor
 
-# async-iterator-pg-cursor
-
+```javascript
 const Cursor = require('async-iterator-pg-cursor');
 const pg = require('pg');
 
@@ -27,3 +26,4 @@ async function start() {
 };
 
 start().then(() => process.exit());
+```
